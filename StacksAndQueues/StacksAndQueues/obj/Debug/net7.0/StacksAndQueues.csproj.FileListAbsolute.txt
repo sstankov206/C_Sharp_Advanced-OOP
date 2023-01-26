@@ -1,0 +1,15 @@
+/Users/stan/Projects/C_Sharp_Advanced&OOP/StacksAndQueues/StacksAndQueues/bin/Debug/net7.0/StacksAndQueues
+/Users/stan/Projects/C_Sharp_Advanced&OOP/StacksAndQueues/StacksAndQueues/bin/Debug/net7.0/StacksAndQueues.deps.json
+/Users/stan/Projects/C_Sharp_Advanced&OOP/StacksAndQueues/StacksAndQueues/bin/Debug/net7.0/StacksAndQueues.runtimeconfig.json
+/Users/stan/Projects/C_Sharp_Advanced&OOP/StacksAndQueues/StacksAndQueues/bin/Debug/net7.0/StacksAndQueues.dll
+/Users/stan/Projects/C_Sharp_Advanced&OOP/StacksAndQueues/StacksAndQueues/bin/Debug/net7.0/StacksAndQueues.pdb
+/Users/stan/Projects/C_Sharp_Advanced&OOP/StacksAndQueues/StacksAndQueues/obj/Debug/net7.0/StacksAndQueues.csproj.AssemblyReference.cache
+/Users/stan/Projects/C_Sharp_Advanced&OOP/StacksAndQueues/StacksAndQueues/obj/Debug/net7.0/StacksAndQueues.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stan/Projects/C_Sharp_Advanced&OOP/StacksAndQueues/StacksAndQueues/obj/Debug/net7.0/StacksAndQueues.AssemblyInfoInputs.cache
+/Users/stan/Projects/C_Sharp_Advanced&OOP/StacksAndQueues/StacksAndQueues/obj/Debug/net7.0/StacksAndQueues.AssemblyInfo.cs
+/Users/stan/Projects/C_Sharp_Advanced&OOP/StacksAndQueues/StacksAndQueues/obj/Debug/net7.0/StacksAndQueues.csproj.CoreCompileInputs.cache
+/Users/stan/Projects/C_Sharp_Advanced&OOP/StacksAndQueues/StacksAndQueues/obj/Debug/net7.0/StacksAndQueues.dll
+/Users/stan/Projects/C_Sharp_Advanced&OOP/StacksAndQueues/StacksAndQueues/obj/Debug/net7.0/refint/StacksAndQueues.dll
+/Users/stan/Projects/C_Sharp_Advanced&OOP/StacksAndQueues/StacksAndQueues/obj/Debug/net7.0/StacksAndQueues.pdb
+/Users/stan/Projects/C_Sharp_Advanced&OOP/StacksAndQueues/StacksAndQueues/obj/Debug/net7.0/StacksAndQueues.genruntimeconfig.cache
+/Users/stan/Projects/C_Sharp_Advanced&OOP/StacksAndQueues/StacksAndQueues/obj/Debug/net7.0/ref/StacksAndQueues.dll
